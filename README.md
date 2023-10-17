@@ -1,6 +1,6 @@
 # CMPE-297-Prompt-Engineering-assignment
 
-Question 1: a) Use chatgpt to write an medium.com article on best practices for writing prompts. I have written 1 Medium article - the article has been written based on the knowledge level of reader(basic and advanced).
+# Question 1: a) Use chatgpt to write an medium.com article on best practices for writing prompts. I have written 1 Medium article - the article has been written based on the knowledge level of reader(basic and advanced).
 
 Medium Article link: https://medium.com/@abdulvahed.shaik/best-practices-for-writing-prompts-the-art-of-eliciting-quality-responses-7524271bb4f3
 
@@ -19,6 +19,6 @@ Screenshots of the application:
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/0387e01650ac69309171274b7b98e3bdfd91cde6/Screen%20Shot%202023-10-16%20at%205.22.56%20PM.png)
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/0387e01650ac69309171274b7b98e3bdfd91cde6/Screen%20Shot%202023-10-16%20at%205.22.24%20PM.png)
 
-
+# b)
 
 
