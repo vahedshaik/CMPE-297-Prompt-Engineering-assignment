@@ -15,5 +15,10 @@ https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sh
 Screenshots of the application:
 
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/17b9ff19f443b8c1363c85e96cc1beef3833e5d5/Screen%20Shot%202023-10-16%20at%205.24.33%20PM.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/0387e01650ac69309171274b7b98e3bdfd91cde6/Screen%20Shot%202023-10-16%20at%205.23.25%20PM.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/0387e01650ac69309171274b7b98e3bdfd91cde6/Screen%20Shot%202023-10-16%20at%205.22.56%20PM.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/0387e01650ac69309171274b7b98e3bdfd91cde6/Screen%20Shot%202023-10-16%20at%205.22.24%20PM.png)
+
+
 
 
