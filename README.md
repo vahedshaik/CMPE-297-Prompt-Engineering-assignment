@@ -15,4 +15,6 @@ https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sh
 Screenshots of the application:
 https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/main/Screen%20Shot%202023-10-16%20at%205.24.33%20PM.png
 
+Screen Shot 2023-10-16 at 5.24.33 PM.png
+
 
