@@ -13,8 +13,7 @@ An app which will critique a given prompt for all the missing information. Here 
 https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sharing
 
 Screenshots of the application:
-https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/main/Screen%20Shot%202023-10-16%20at%205.24.33%20PM.png
 
-Screen Shot 2023-10-16 at 5.24.33 PM.png
- https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/57165a714e657fe660e2cd0cd1c1de3fe39d3fa8/Screen%20Shot%202023-10-16%20at%205.24.33%20PM.png
+![Alt Text]([https://example.com/image.png](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/main/Screen%20Shot%202023-10-16%20at%205.24.33%20PM.png)https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/main/Screen%20Shot%202023-10-16%20at%205.24.33%20PM.png)
+
 
