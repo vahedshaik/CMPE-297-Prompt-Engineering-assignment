@@ -6,3 +6,5 @@ Medium Article link: https://medium.com/@abdulvahed.shaik/best-practices-for-wri
 
 apply this best practices in your custom domain for a full example. 
 
+I have applied the best practices in my custom domain, my prompts and GPT's responses are mentioned below:
+https://chat.openai.com/share/12a2f22a-03da-4d2c-bc79-9e3fc2571139
