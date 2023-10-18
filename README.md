@@ -10,7 +10,7 @@ I have applied the best practices in my custom domain, my prompts and GPT's resp
 https://chat.openai.com/share/12a2f22a-03da-4d2c-bc79-9e3fc2571139
 
 An app which will critique a given prompt for all the missing information. Here gpt4 acted as an expert prompt engineer and it will critique and provide clues on how to improve and suggest changes for improvements so user can accept:
-https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sharing
+**colab** :https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sharing
 
 **Screenshots of the application:**
 
@@ -22,6 +22,8 @@ https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sh
 **b)Here is a gradio application for perfect prompt generation, following all best practices, using gpt4 help.**
 **Google Colab**: https://colab.research.google.com/drive/1sPcGUWI260mIuDNTsirTtDTB91O_fwAs?usp=sharing
 **Slides:** https://docs.google.com/presentation/d/1q8KUXFB0VRuDm5GpMLWd66AFavmovnVJz6QYWAXke64/edit?usp=sharing
+**Medium Article link:** https://medium.com/@abdulvahed.shaik/the-art-of-prompt-refinement-crafting-questions-for-ai-with-precision-f157842db112
+
 **Screenshots of the application:**
 
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/1.png)
