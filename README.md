@@ -28,6 +28,8 @@ An app which will critique a given prompt for all the missing information. Here 
 
 **Medium Article link:** https://medium.com/@abdulvahed.shaik/the-art-of-prompt-refinement-crafting-questions-for-ai-with-precision-f157842db112
 
+**Youtube Video Link:** https://youtu.be/toc5dC8TVSk
+
 **Screenshots of the application:**
 
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/1.png)
