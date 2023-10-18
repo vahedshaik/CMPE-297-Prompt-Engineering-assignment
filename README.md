@@ -10,6 +10,7 @@ I have applied the best practices in my custom domain, my prompts and GPT's resp
 https://chat.openai.com/share/12a2f22a-03da-4d2c-bc79-9e3fc2571139
 
 An app which will critique a given prompt for all the missing information. Here gpt4 acted as an expert prompt engineer and it will critique and provide clues on how to improve and suggest changes for improvements so user can accept:
+
 **colab** :https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sharing
 
 **Screenshots of the application:**
