@@ -21,4 +21,11 @@ https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sh
 
 **b)Here is a gradio application for perfect prompt generation, following all best practices, using gpt4 help.**
 **Google Colab**: https://colab.research.google.com/drive/1sPcGUWI260mIuDNTsirTtDTB91O_fwAs?usp=sharing
+**Screenshots of the application:**
+
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/1.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/2.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/3.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/4.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/5.png)
 
