@@ -22,4 +22,3 @@ https://colab.research.google.com/drive/1NTKazJqDLPPdwy2UZSIutpgqpfuMWF_s?usp=sh
 **b)Here is a gradio application for perfect prompt generation, following all best practices, using gpt4 help.**
 **Google Colab**: https://colab.research.google.com/drive/1sPcGUWI260mIuDNTsirTtDTB91O_fwAs?usp=sharing
 
-
