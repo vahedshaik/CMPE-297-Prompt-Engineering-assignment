@@ -21,8 +21,11 @@ An app which will critique a given prompt for all the missing information. Here 
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/0387e01650ac69309171274b7b98e3bdfd91cde6/Screen%20Shot%202023-10-16%20at%205.22.24%20PM.png)
 
 **b)Here is a gradio application for perfect prompt generation, following all best practices, using gpt4 help.**
+
 **Google Colab**: https://colab.research.google.com/drive/1sPcGUWI260mIuDNTsirTtDTB91O_fwAs?usp=sharing
+
 **Slides:** https://docs.google.com/presentation/d/1q8KUXFB0VRuDm5GpMLWd66AFavmovnVJz6QYWAXke64/edit?usp=sharing
+
 **Medium Article link:** https://medium.com/@abdulvahed.shaik/the-art-of-prompt-refinement-crafting-questions-for-ai-with-precision-f157842db112
 
 **Screenshots of the application:**
