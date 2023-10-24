@@ -47,4 +47,6 @@ Code included in gpt_prompt_library directory above
 
 **screenshots pf the web app:**
 
-
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/d33b55983acb4976e0239abd40c4c275a661291b/gpt%20prompt%20library/templates/11.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/d33b55983acb4976e0239abd40c4c275a661291b/gpt%20prompt%20library/templates/22.png)
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/d33b55983acb4976e0239abd40c4c275a661291b/gpt%20prompt%20library/templates/33.png)
