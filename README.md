@@ -1,6 +1,7 @@
 # CMPE-297-Prompt-Engineering-assignment
 
-**Question 1: a) Use chatgpt to write an medium.com article on best practices for writing prompts. I have written 1 Medium article - the article has been written based on the knowledge level of reader(basic and advanced).**
+**Question 1: 
+a) Use chatgpt to write an medium.com article on best practices for writing prompts. I have written 1 Medium article - the article has been written based on the knowledge level of reader(basic and advanced).**
 
 **Medium Article link**: https://medium.com/@abdulvahed.shaik/best-practices-for-writing-prompts-the-art-of-eliciting-quality-responses-7524271bb4f3
 
@@ -20,6 +21,7 @@ An app which will critique a given prompt for all the missing information. Here 
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/0387e01650ac69309171274b7b98e3bdfd91cde6/Screen%20Shot%202023-10-16%20at%205.22.56%20PM.png)
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/0387e01650ac69309171274b7b98e3bdfd91cde6/Screen%20Shot%202023-10-16%20at%205.22.24%20PM.png)
 
+
 **b)Here is a gradio application for perfect prompt generation, following all best practices, using gpt4 help.**
 
 **Google Colab**: https://colab.research.google.com/drive/1sPcGUWI260mIuDNTsirTtDTB91O_fwAs?usp=sharing
@@ -38,3 +40,11 @@ An app which will critique a given prompt for all the missing information. Here 
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/4.png)
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/9d080ccffe2b51ccc3d2b590854cd08ee96bda2b/5.png)
 ![Alt Text](https://github.com/vahedshaik/CMPE-297-Prompt-Engineering-assignment/blob/8a1aeea140510214bd8bf5176d4ffc50d8d4252f/6.png)
+
+**c)Web app for prompt library with prompt search using pinecone langchain library - where users can also contribute the prompts and search for prompts.**
+
+Code included in gpt_prompt_library directory above
+
+**screenshots pf the web app:**
+
+
